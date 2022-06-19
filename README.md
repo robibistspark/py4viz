@@ -1,1 +1,1 @@
-## This repo is intended to store files for the Python visualization course at HSE. Authors are M. Stepaynats & Arsenii Anisimov
+## This repo is intended to store files for the Python visualization course at the HSE University. The authors are M. Stepaynats, Arsenii Anisimov & I. Khochetkhova
